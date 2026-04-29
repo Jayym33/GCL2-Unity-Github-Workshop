@@ -1,11 +1,11 @@
 using UnityEngine;
 
-public class MysteryBoxScript : MonoBehaviour
+public class DiamondScript : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        print("Mystery Box spawned!");
+        print("Diamond spawned!");
     }
 
     // Update is called once per frame
